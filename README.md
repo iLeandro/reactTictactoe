@@ -1,6 +1,7 @@
 # Tic Tac Toe - React
 Simple 2 Player Tic Tac Toe with moves history made in React
 
+<br />
 ## How to Play
 LOREM IPSUM 
 
@@ -12,8 +13,10 @@ LOREM IPSUM
 ## Installation
 ```
 $ git clone https://github.com/iLeandro/reacttictactoe.git
-$ cd guessthenumber
+$ cd reacttictactoe
+$ create-react-app NAME
 ```
+<br />
 
 ## Things to do:
 ####   - Display the location for each move in the format (col, row) in the move history list.
@@ -24,11 +27,12 @@ $ cd guessthenumber
 ####   - When no one wins, display a message about the result being a draw.
 ####   - Replay (A.I)
 
-
-
+<br />
 
 ## Contributing
 lorem ipsum
+
+<br />
 
 ## License
 lorem ipsum
