@@ -6,6 +6,7 @@ Simple 2 Player Tic Tac Toe with moves history made in React
 ## How to Play:
 lorem ipsum
 
+<br />
 
 ## Screenshoots:
 ![Alt text](https://i.imgur.com/akx3aGp.png "Tic Tac Toe Screenshot")
