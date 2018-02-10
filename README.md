@@ -2,8 +2,9 @@
 Simple 2 Player Tic Tac Toe with moves history made in React
 
 <br />
-## How to Play
-LOREM IPSUM 
+
+## How to Play:
+lorem ipsum
 
 
 ## Screenshoots:
